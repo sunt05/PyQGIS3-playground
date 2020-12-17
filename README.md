@@ -1,5 +1,13 @@
 # QGIS with conda
 
+---
+
+**Acknowledgement:**
+
+This repo is greatly inspired by [CNFerrery](https://github.com/CNFeffery) 's work [here](https://github.com/CNFeffery/DataScienceStudyNotes/tree/master/（数据科学学习手札94）QGIS%2BConda%2Bjupyter玩转Python%20GIS).
+
+---
+
 ## set up a QGIS environment in conda
 in your terminal:
 ```
